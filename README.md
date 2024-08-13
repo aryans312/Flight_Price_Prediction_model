@@ -81,10 +81,10 @@ Python: Core language for data processing, analysis, and machine learning.
 2) Custom Evaluation Function: A self-developed metric to evaluate multiple aspects of model performance.
 These technologies and tools were instrumental in building and evaluating your flight price prediction model.
 
-**Conclusion-**
-This model provides accurate flight price predictions, with the RandomForestRegressor achieving the highest accuracy. Further tuning and more data could potentially improve performance.
-
 **How to Execute-**
 1) Clone the repository.
 2) Install dependencies: pip install -r requirements.txt
 3) Run the Jupyter notebook to explore and train the model.
+
+**Conclusion-**
+This model provides accurate flight price predictions, with the RandomForestRegressor achieving the highest accuracy. Further tuning and more data could potentially improve performance.
