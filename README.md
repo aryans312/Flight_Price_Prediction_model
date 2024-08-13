@@ -33,6 +33,7 @@ This project focuses on predicting airline flight prices using a machine learnin
 3) **Made my own evaluation model** to find metrics like R², MAE, MSE, RMSE, and MAPE.
 
 **Results:**
+
 **1) RandomForestRegressor:**
 Training Score: 0.9517
 R² Score: 0.8086
