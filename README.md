@@ -52,6 +52,7 @@ MAPE: 15.52%
 
 **Technologies Used-**
 These technologies and tools were instrumental in building and evaluating my flight price prediction model-
+
 **Programming Language:**
 Python: Core language for data processing, analysis, and machine learning.
 
